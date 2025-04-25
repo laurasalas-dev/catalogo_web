@@ -22,7 +22,7 @@ Documentaré las etiquetas HTML y propiedades CSS que más han servido o gustado
 
 [Ver la demo](demo/)
 
-![Cap1](laurasalas-dev/catalogo_web/cap1.PNG)
+![Cap1](cap1.PNG)
 
 
-![Cap2](laurasalas-dev/catalogo_web/cap2.PNG)
+![Cap2](cap2.PNG)
