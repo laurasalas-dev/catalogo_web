@@ -21,3 +21,8 @@ Documentaré las etiquetas HTML y propiedades CSS que más han servido o gustado
 3. font-size:
 
 [Ver la demo](demo/)
+
+![Cap1](laurasalas-dev/catalogo_web/cap1.PNG)
+
+
+![Cap2](laurasalas-dev/catalogo_web/cap2.PNG)
